@@ -39,7 +39,7 @@
 
     <header>
         <h1>Mary Ajayi</h1>
-        <p>Email: maryajayi55@gmail.com | Phone: (+234) 810-196-3400 | LinkedIn: linkedin.com/in/mary-yourtechie</p>
+        <p>Email: brookeyajayi55@gmail.com | Phone: (+234) 810-196-3400 | LinkedIn: linkedin.com/in/mary-yourtechie</p>
     </header>
 
     <section>
